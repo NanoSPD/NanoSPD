@@ -13,6 +13,7 @@ NanoSPD 2.4.zip
 ZIP archive containing MATLAB source code, compiled MacOS and Win32 binaries, ImageJ macro, example data sets and software user guide. 
 
 /macro
+ImageJ macro to create batch linetrace files. 
 
 /src 
 MATLAB source code, tested for v8.1 (2013a) and higher. Uses the Image Processing Toolbox. 

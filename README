@@ -1,0 +1,19 @@
+#######################################################################
+Nanoscale Pulldown (NanoSPD) v2.4a Analysis Toolkit
+Jonathan E. Bird, 2017, NIDCD/NIH
+#######################################################################
+
+Supplementary materials for: Bird & Barzik et al., "Harnessing molecular motors for nanoscale pulldown in live cells",
+Mol. Biol. Cell February 1, 2017 vol. 28 no. 3 463-475
+
+http://www.molbiolcell.org/content/28/3/463.long
+
+Github repository contents:
+NanoSPD 2.4.zip
+ZIP archive containing MATLAB source code, compiled MacOS and Win32 binaries, ImageJ macro, example data sets and software user guide. 
+
+/macro
+
+/src 
+MATLAB source code, tested for v8.1 (2013a) and higher. Uses the Image Processing Toolbox. 
+
